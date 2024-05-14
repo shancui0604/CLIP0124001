@@ -1,4 +1,6 @@
 # CLIP0124001
+CSDP001打印机是由精彩创（山东）智能科技有限公司研发的一款具有创新性和高性能的打印设备。可以实现实现单色打印与多色和混色打印。用户可以通过调整打印机的参数和使用特定的混色程序，打印出色彩丰富、细节丰富的三维模型。该产品具备卓越的打印精度和速度，能够满足不同用户的需求。
+
 The CSDP001 printer is an innovative and high-performance printing equipment developed by Wonderful Creation (Shandong) Intelligent Technology Co., Ltd. It can achieve monochrome printing and multi-color and mixed color printing. Users can print three-dimensional models with rich colors and details by adjusting the printer parameters and using specific color mixing programs. This product has excellent printing accuracy and speed, which can meet the needs of different users.
 
 Forming Technology Melt Deposition Forming
